@@ -1,5 +1,7 @@
 # This is my MAGICAL assignment!!
 
+![alt text](Flowchart.png)
+
 Code derived from:
 
 Mr.Walker,
